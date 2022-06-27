@@ -2,7 +2,7 @@
 ============================================
 I'm a 🌉 San Jose based software engineer coding full-stack Javascript applications.
 -------------------------------------------------------------------------------------
-- 🌱 I’m currently learning Object Oriented Programming
+- 🌱 I’m currently learning React
 - 🚧 I’m currently working on **teampick** ([Github repo](https://github.com/ndrwquach/teampick))
 - 🎯 I’m currently focusing on Full-Stack applications
 - 😀 I like to play basketball, bike, and read in my free time
